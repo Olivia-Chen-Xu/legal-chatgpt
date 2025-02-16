@@ -6,7 +6,7 @@ import invariant from "tiny-invariant";
 import { GraphFlowEdge, GraphFlowNode } from "./nodes";
 import { toast } from "@/components/ui/use-toast";
 
-const DBURL = "https://graph-module.openjustice.ai";
+const DBURL = "https://dialog-flows-api-h8dnfrgngfbrewc7.canadacentral-01.azurewebsites.net";
 
 export function useSaveDialogFlow(options: UseMutationOptions = {}) {
   const { graphId, setGraphId, name, publicGraph, nodes, edges } = useDialogFlowStore(

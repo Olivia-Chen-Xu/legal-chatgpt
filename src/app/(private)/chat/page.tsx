@@ -108,13 +108,13 @@ export default function Chat() {
     setAlert("Authenticating user...");
     const unsubscribe = onAuthStateChanged(auth, async (user) => {
       try {
-        if (user && !user.emailVerified) {
-          toast({
-            title: "Email has not been verified.",
-            variant: "destructive",
-          });
-          router.push("/login");
-        }
+        // if (user && !user.emailVerified) {
+        //   toast({
+        //     title: "Email has not been verified.",
+        //     variant: "destructive",
+        //   });
+        //   router.push("/login");
+        // }
         setDocuments(await getDocumentsOwnedByUser()); // Retrieves uploaded documents by user
         setConversationTitles(await getConversationTitles()); // Retrieves past conversations
       } catch (error: unknown) {

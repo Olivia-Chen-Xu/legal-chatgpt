@@ -12,6 +12,8 @@ export enum PineconeIndexes {
   dynamicDocuments = "global-search",
 }
 
+// ALFA TEAM
+
 export enum PineconeNamespaces {
   no_dataset = "no_dataset",
   canadian_law = "canadian_law",

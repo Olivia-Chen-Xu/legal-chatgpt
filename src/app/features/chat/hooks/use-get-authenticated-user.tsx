@@ -25,6 +25,7 @@ export function useGetAuthenticatedUser() {
         router.push("/login");
       }
     } catch (e: unknown) {
+      console.error(e);
       setInfoAlert("User doesn't have priviledge to access chat.");
       router.push("/login");
     }

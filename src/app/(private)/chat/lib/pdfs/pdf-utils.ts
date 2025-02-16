@@ -17,7 +17,7 @@ export async function createDocumentPrompt(includedDocuments: string[]) {
 
     // Return back the raw text of the document
     return (
-      "Here are some additional legal documents you can reference.\n\n" +
+      "use the provided documents only without any interference from google data search.\n\n" +
       documents.data
         .map(
           (doc: UploadedDocument) =>

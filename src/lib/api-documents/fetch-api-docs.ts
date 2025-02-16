@@ -77,7 +77,6 @@ async function fetchCanadianDocs(
    */
   const urlGoogleSearch = `https://www.googleapis.com/customsearch/v1/siterestrict?cx=${process.env.NEXT_PUBLIC_GOOGLE_SEARCH_ID}&q=${searchTerm}&key=${process.env.NEXT_PUBLIC_GOOGLE_SEARCH_KEY}`;
 
-  const resGoogleSearch = await fetch(urlGoogleSearch);
 
   // Call Google Search API for Canadian case-law documents
   try {
@@ -86,13 +85,13 @@ async function fetchCanadianDocs(
     if (!googleJson.items)
       throw new Error("Failed to get Canadian case law documents");
 
-    for (const res of googleJson.items) {
-      results.push({
-        url: res.link,
-        content: res.snippet,
-        fileName: res.title,
-      });
-    }
+    // for (const res of googleJson.items) {
+    //   results.push({
+    //     url: res.link,
+    //     content: res.snippet,
+    //     fileName: res.title,
+    //   });
+    // }
   } catch (e) {
     console.error(e);
   }

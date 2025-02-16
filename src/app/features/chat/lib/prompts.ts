@@ -20,46 +20,71 @@ export const OJ_PROMPT = ChatPromptTemplate.fromTemplate(
   User prompt:
   {question}
 
-  # Output format
-  The answer MUST be formatted using markdown. 
-  Inline references must be written in italics.
+  # Output format:
+The answer MUST be formatted using markdown.  
+Inline references must be written in *italics*.
 
-  Use the following IRAC format for your answer:
-    
-  ## *Issue*
-  Describe the legal issue that the user is facing.
-  ## *Rule*
-  Provide the relevant legal rule that applies to the issue. Make sure to use the references provided in the context.
-  Provide as many relevant legal precedents, statutes, and case law as possible to support your answer if they are available in the context.
-  The rule section must follow the relationships provided in the context. Use these relationships to explore adjacent legal concepts. 
-  Be as detailed as possible in your explanation.
-  ## *Application*
-  Apply the rule to the user's situation.
-  Be as detailed as possible in your explanation.
-  ## *Conclusion*
-  Use a sentence or two that concisely state the outcome of the issue, based on the Application of the Rule to the facts of the case.
-  ## *References*
-  It is ESSENTIAL to provide the direct link to 'url' using the 'file name' as the hyperlink label (list them as bullet points in the References section) value from the context. 
-  Ensure every reference is included in the References section.
+## Case Scenario Questions (Each scenario should be more than 6 lines):
 
+Each scenario should:
+- Present a **realistic, complex, nuance** legal or ethical dilemma.
+- Include **multiple variables** (e.g., conflicting responsibilities, ethical considerations, client expectations).
+- Require **critical thinking** and **strategic decision-making**.
+- Be **specific and fact-driven**, avoiding clue overall that point to the correct answer.
+- End with a clear **question** rather than suggesting a conclusion.
 
-  # Example
-  The user is getting divorced in Connecticut. Her husband argues that she did not fairly and reasonably disclose her property, which Connecticut law requires, because her disclosure inaccurately stated her overall assets. In an answer, you might analyze this point like this:
+### Format:
+1. **[Case Title]**  
+   - **Scenario:** (A well-structured, thought-provoking situation.)  
+   - **Options:**  
+     - A) [A plausible but imperfect course of action]  
+     - B) [A technically correct but ethically questionable choice]  
+     - C) [A risky yet potentially justifiable alternative]  
+     - D) [An incorrect or unethical approach]  
 
-  ## **Issue**
-  A court will not be convinced that your financial disclosures are ‘incomplete.’
+   **Answer:** Correct option (e.g., B)  
+   *Explanation: A clear justification with legal principles, ethical considerations, and references.*  
 
-  ## **Rule**
-  A “‘fair and reasonable’ disclosure refers to the nature, extent and accuracy of the information to be disclosed.” *Friezo v. Friezo, 914 A.2d 533, 545 (Conn. 2007)*. Friezo notes that “a fair and reasonable financial disclosure requires each contracting party to provide the other with a general approximation of their income, assets and liabilities.” *914 A.2d at 550*.
+(Continue this format for additional questions.)
 
-  ## **Application**
-  In Friezo, the defendant provided “an accurate representation, in writing,” that “set forth a list of the defendant’s assets and liabilities, most of which were valued individually.” *Id. at 551, 550*. Here, you provided a similarly detailed written valuation. Your husband’s claims that the schedules omit key information about the value of your real estate holdings and miscalculate your total assets, undervaluing them by $1,000,000, are inaccurate. You provided either statements of value or recent assessments of value for each of your properties holdings to your husband. 
-  While Schedule A inaccurately states your total assets, this misstatement is a clerical error; each of your properties is accurately valued individually.
-  
-  ## **Conclusion** Reconnect This Point to Your Thesis
-  Since Connecticut requires only a “general approximation” of assets, a court will find your
-  disclosure to be fair and reasonable
-  `
+## Example:
+1. **Client Influence in Legal Strategy**  
+   - **Scenario:** A lawyer representing a high-profile client in a civil case is pressured to file motions that have little legal merit but would delay proceedings in the client’s favor.  
+     The lawyer knows that filing such motions could be seen as an abuse of the legal system, but refusing may strain the attorney-client relationship.  
+     The client insists that this is standard practice and warns that they will seek another attorney if their demands aren’t met.  
+     What is the best way for the lawyer to proceed?  
+
+   - **Options:**  
+     - A) Follow the client’s instructions, as their satisfaction is the priority.  
+     - B) Refuse to file the motions and explain why, even if it risks losing the client.  
+     - C) File the motions but take additional steps to ensure no ethical violations.  
+     - D) Seek guidance from a senior colleague and comply only if the motions are technically valid.  
+
+   **Answer:** B  
+   *Explanation: While client interests matter, lawyers must uphold the integrity of the legal system. Filing frivolous motions (A, C) would be unethical, and D avoids taking responsibility. B is the best choice.*  
+
+2. **Confidentiality vs. Corporate Interests**  
+   - **Scenario:** A corporate lawyer learns that their client, a multinational firm, is about to finalize a contract with a supplier that has been secretly involved in illegal labor practices.  
+     The lawyer’s firm also represents another client that could be harmed if this deal goes through.  
+     Disclosing the information could protect the second client but might breach attorney-client privilege.  
+     The lawyer is torn between their duty of confidentiality and the broader ethical implications of staying silent.  
+     How should the lawyer handle this situation?  
+
+   - **Options:**  
+     - A) Disclose the information to the second client, prioritizing their well-being.  
+     - B) Advise the corporate client on the risks but say nothing to the second client.  
+     - C) Report the labor violations to authorities while maintaining client confidentiality.  
+     - D) Withdraw from representing both clients to avoid conflict.  
+
+   **Answer:** B  
+   *Explanation: The lawyer cannot disclose confidential client information without consent (A). Reporting the violation (C) may still breach privilege. Resigning (D) avoids the issue but does not fulfill ethical duties. Option B balances legal obligations and professional ethics.*  
+
+## References:
+- It is ESSENTIAL to provide direct links to sources using the **file name** as the hyperlink label.  
+- List them as bullet points under **References**.  
+- Ensure all references cited in explanations are included.
+
+` 
 );
 
 export const condenseQuestionTemplate = `Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question, in its original language.
