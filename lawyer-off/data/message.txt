@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "caseNumber": "IMM-1506-18",
+    "caseTitle": "MAGRETH BENARD MAGONZA v THE MINISTER OF CITIZENSHIP AND IMMIGRATION",
+    "court": "Federal Court",
+    "judges": [
+      "Sébastien Grammond"
+    ],
+    "dateOfJudgment": "January 7, 2019",
+    "dateOfHearing": "November 14, 2018"
+  },
+  "summary": {
+    "abstract": "Ms. Magonza, a Tanzanian citizen, claimed refugee status in Canada alleging persecution by her ex-husband and a lack of police protection in Tanzania. After her claim was denied and her subsequent pre-removal risk assessment (PRRA) application was rejected based on flawed credibility assessments and an improper evaluation of state protection, she sought judicial review.",
+    "outcome": "Judicial review allowed; decision sent back for redetermination.",
+    "verdict": "Allowed",
+    "recommendations": "Re-assessment of the PRRA decision with proper consideration of corroborative evidence, including family testimony and a correct application of the operational adequacy test for state protection."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Magreth Benard Magonza",
+        "role": "Applicant",
+        "attorney": "Chelsea Peterdy"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "The Minister of Citizenship and Immigration",
+        "role": "Respondent",
+        "attorney": "David Joseph"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "Ms. Magonza claimed refugee status in Canada alleging persecution by her ex-husband and insufficient police protection in Tanzania.",
+      "paragraphCitation": "[1]",
+      "supportingText": "The judgment states, 'Ms. Magonza claimed refugee status in Canada. She said she was persecuted by her ex-husband and that the police in her home country, Tanzania, were powerless to protect her.'"
+    },
+    {
+      "factId": "F2",
+      "description": "Her initial refugee claim was denied, prompting her to apply for a pre-removal risk assessment (PRRA).",
+      "paragraphCitation": "[1]",
+      "supportingText": "It is noted that 'her claim was denied. She then applied for a pre-removal risk assessment [PRRA].'"
+    },
+    {
+      "factId": "F3",
+      "description": "Ms. Magonza provided evidence that her ex-husband continued to harass her mother and friends in Tanzania after her initial claim was denied.",
+      "paragraphCitation": "[1]",
+      "supportingText": "The record indicates she 'provided evidence that, since the decision denying her claim for asylum, her ex-husband kept harassing her mother and her friends in Tanzania.'"
+    },
+    {
+      "factId": "F4",
+      "description": "On October 8, 2016, Mr. Haule allegedly broke into Ms. Sanga's house and threatened to kill her unless she revealed Ms. Magonza's whereabouts.",
+      "paragraphCitation": "[37]",
+      "supportingText": "The evidence describes that 'he asked Ms. Sanga to reveal her daughter's whereabouts, failing which he would kill her,' and that as a result, Ms. Sanga suffered a minor stroke."
+    },
+    {
+      "factId": "F5",
+      "description": "On October 29, 2016, Mr. Haule entered a pub, accused Ms. Kalinga of facilitating Ms. Magonza's flight, and threw empty beer bottles at her.",
+      "paragraphCitation": "[39]",
+      "supportingText": "The judgment recounts, 'he accused Ms. Kalinga of facilitating Ms. Magonza's flight and said he would follow her until she revealed Ms. Magonza's whereabouts. He threw empty beer bottles at Ms. Kalinga, which narrowly missed her.'"
+    },
+    {
+      "factId": "F6",
+      "description": "In December 2016, Mr. Haule approached Ms. Kalinga while she was waiting for a bus.",
+      "paragraphCitation": "[40]",
+      "supportingText": "Ms. Kalinga's letter dated January 16, 2017, states that 'Mr. Haule saw Ms. Kalinga while she was waiting for a bus. He started walking towards her, as if he wanted to speak to her.'"
+    },
+    {
+      "factId": "F7",
+      "description": "On June 15, 2017, a friend of Mr. Haule questioned Ms. Kalinga about Ms. Magonza's whereabouts, but she declined to provide the information.",
+      "paragraphCitation": "[40]",
+      "supportingText": "The record notes, 'a friend of Mr. Haule met Ms. Kalinga and started to question her concerning Ms. Magonza's whereabouts. Ms. Kalinga declined to provide the information.'"
+    },
+    {
+      "factId": "F8",
+      "description": "On September 10, 2017, Mr. Haule returned to Ms. Sanga's house and issued death threats regarding Ms. Magonza.",
+      "paragraphCitation": "[41]",
+      "supportingText": "Ms. Sanga's letter dated January 5, 2018 records that 'he said that he would continue until he found Ms. Magonza or he saw her dead.'"
+    },
+    {
+      "factId": "F9",
+      "description": "The PRRA officer discounted key evidence, including family letters and incidents not reported to the police.",
+      "paragraphCitation": "[7], [43]-[50]",
+      "supportingText": "The officer remarked that the evidence was of 'insufficient objective evidence' and noted issues such as the delay in submission and lack of police reporting, thereby assigning little weight to the family-provided evidence."
+    },
+    {
+      "factId": "F10",
+      "description": "The PRRA officer concluded that adequate state protection existed in Tanzania based on selected documents.",
+      "paragraphCitation": "[7], [38]",
+      "supportingText": "It was stated that 'Ms. Magonza, should she be threatened by Mr. Haule, could avail herself of the protection offered by Tanzania.'"
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "ORF1",
+      "description": "Discounting of family evidence due to perceived bias and delay in submission.",
+      "paragraphCitation": "[43]-[46]",
+      "supportingText": "The officer noted that the letters from Ms. Sanga were 'written several months after the altercations' and expressed doubts based on the familial connection, thereby reducing their probative value.",
+      "relevanceExplanation": "This discounting directly undermined critical corroborative evidence, impacting the assessment of risk and credibility.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Credibility assessment",
+          "Sufficiency of evidence"
+        ],
+        "keyConsiderations": [
+          "Delay in evidence submission",
+          "Assumption of family bias"
+        ]
+      }
+    },
+    {
+      "factId": "ORF2",
+      "description": "Flawed assessment of state protection in Tanzania.",
+      "paragraphCitation": "[73]-[88]",
+      "supportingText": "The officer relied on a selective excerpt from the DOS report stating 'the government is trying to bring about change' while ignoring overwhelming evidence of ineffective state protection.",
+      "relevanceExplanation": "This misinterpretation skewed the risk analysis by improperly weighing state protection, thereby contributing significantly to the decision.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "State protection analysis",
+          "Risk assessment"
+        ],
+        "keyConsiderations": [
+          "Failure to apply the operational adequacy test",
+          "Selective evidence reading"
+        ]
+      }
+    },
+    {
+      "factId": "ORF3",
+      "description": "Insufficient and unexplained overall assessment of evidence sufficiency.",
+      "paragraphCitation": "[55]-[60]",
+      "supportingText": "The officer's assertion that 'the applicant has provided insufficient objective evidence' was made without a detailed rationale, despite multiple corroborative incidents.",
+      "relevanceExplanation": "The vague and unsupported conclusion regarding evidence sufficiency was pivotal in determining that the decision was unreasonable.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Sufficiency of evidence",
+          "Credibility findings"
+        ],
+        "keyConsiderations": [
+          "Lack of detailed justification",
+          "Overlooking corroborative evidence"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "ISS1",
+      "description": "Unreasonable risk assessment due to flawed credibility and evidence sufficiency analysis.",
+      "paragraphCitation": "[9]-[11], [55]-[60]",
+      "supportingText": "The officer failed to provide intelligible reasons for assigning little weight to key evidence, including family testimony and corroborative documents, leading to a conclusion of insufficient evidence.",
+      "analysis": [
+        {
+          "analysisId": "A1",
+          "description": "The lack of transparent reasoning in the weighting process undermines the credibility of the overall risk assessment.",
+          "paragraphCitation": "[10]-[11]",
+          "supportingText": "The judgment criticizes the officer by stating he 'did not provide intelligible reasons for assigning little weight to most of the evidence submitted by Ms. Magonza.'"
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1",
+          "description": "The court found the risk assessment to be unreasonable and set aside the decision.",
+          "paragraphCitation": "[69]",
+          "supportingText": "It was determined that the overall decision was unreasonable, necessitating redetermination by a different officer."
+        }
+      ]
+    },
+    {
+      "issueId": "ISS2",
+      "description": "Improper evaluation of state protection based on selective and isolated evidence.",
+      "paragraphCitation": "[73]-[90]",
+      "supportingText": "The officer's interpretation that state protection was adequate relied on isolated positive indicators, while ignoring critical evidence from documents such as the CEDAW report.",
+      "analysis": [
+        {
+          "analysisId": "A2",
+          "description": "The failure to apply the established operational adequacy test for state protection resulted in a flawed conclusion.",
+          "paragraphCitation": "[73], [87]",
+          "supportingText": "The judgment notes that the officer 'did not apply the test laid out by the constant jurisprudence of this Court' and overlooked substantial evidence regarding the ineffectiveness of state protection."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D2",
+          "description": "The court held that the evaluation of state protection was flawed and contributed to the reversal of the decision.",
+          "paragraphCitation": "[97]",
+          "supportingText": "It was concluded that the officer's selective reading of the evidence and misapplication of the state protection test rendered the decision unreasonable."
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "IRPA, SC 2001, c 27",
+      "name": "Immigration and Refugee Protection Act",
+      "section": "s. 3(2)(c), (e), and 113",
+      "description": "Governs the criteria for refugee status determination and pre-removal risk assessments in Canada.",
+      "jurisdiction": "Canada",
+      "link": ""
+    },
+    {
+      "citation": "Dunsmuir v New Brunswick, 2008 SCC 9",
+      "name": "Dunsmuir v New Brunswick",
+      "section": "para 47",
+      "description": "Establishes standards for transparency and intelligibility in administrative decision-making.",
+      "jurisdiction": "Canada",
+      "link": ""
+    },
+    {
+      "citation": "Canada (AG) v Ward, [1993] 2 SCR 689",
+      "name": "Canada (AG) v Ward",
+      "section": "",
+      "description": "A seminal case outlining the principles of state protection in refugee claims.",
+      "jurisdiction": "Canada",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Judicial review allowed; matter sent back for redetermination.",
+    "sentence": "",
+    "monetaryAward": 0,
+    "conditions": "",
+    "appealInformation": {
+      "appealAllowed": false,
+      "appealDeadline": "",
+      "appellateCourt": ""
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "",
+        "description": "",
+        "fileReference": ""
+      }
+    ],
+    "additionalDocuments": []
+  }
+}

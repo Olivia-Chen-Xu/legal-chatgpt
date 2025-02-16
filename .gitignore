@@ -36,3 +36,5 @@ legal-gpt-firebase-adminsdk-yjo2f-3a6bf4c969.json
 .netlify
 elastic-agent-8.6.2-darwin-x86_64.tar.gz
 elastic-agent-8.6.2-darwin-x86_64/
+/lawyer-off/.venv
+/lawyer-off/__pycache__

@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "caseNumber": "2010 ONCA 468",
+    "caseTitle": "Matthews et al. v. Algoma Timberlakes Corporation",
+    "court": "Court of Appeal for Ontario",
+    "judges": [
+      "Laskin",
+      "R.P. Armstrong",
+      "Lang"
+    ],
+    "dateOfJudgment": "June 29, 2010",
+    "dateOfHearing": ""
+  },
+  "summary": {
+    "abstract": "This case concerns the interpretation of 'residential' under the Residential Tenancies Act, 2006 and whether it applies to cottages used as second homes in a land lease community. It also examines whether Section 9(1)(a) grants the Board jurisdiction to exempt landlords from their statutory obligations.",
+    "outcome": "Appeal allowed with a declaration that the Act applies to the land lease sites occupied by the appellants.",
+    "verdict": "The Court of Appeal reversed the previous decisions by finding that the cottages qualify as 'residential' and that the Board lacks jurisdiction to exempt landlord obligations.",
+    "recommendations": "Award costs to appellants in the amount of $3,000 and refer any issues regarding specific service obligations to a separate application."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Multiple Applicants/Tenants (e.g., Bob Matthews, Gary Matthews, and others)",
+        "role": "Appellants/Tenants",
+        "attorney": "Robert G. Doumani"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "Algoma Timberlakes Corporation",
+        "role": "Respondent/Landlord",
+        "attorney": "Joseph J.M. Hoffer and Kristin A. Carnie"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "The appellants leased land from Algoma Central Railway in the 1970s and 1980s with leases structured as '20 year less a day' leases with a renewable one-year term.",
+      "paragraphCitation": "[6]",
+      "supportingText": "The judgment states, \"all recreational leases were written . . . with a 20 year less a day lease, with a [renewable] term of one year.\""
+    },
+    {
+      "factId": "F2",
+      "description": "ACR provided lessees with documents referring to building 'residences' on the sites.",
+      "paragraphCitation": "[7]",
+      "supportingText": "The document titled \"Information for Lessees in Algoma Central Country\" was provided to potential lessees."
+    },
+    {
+      "factId": "F3",
+      "description": "Certain later leases included provisions excluding any constructed residence from being 'used or occupied as residential premises' or as a 'rental unit'.",
+      "paragraphCitation": "[8]",
+      "supportingText": "It is noted that the leases purported to provide that no residence would be \"used or occupied as residential premises\" or a \"rental unit.\""
+    },
+    {
+      "factId": "F4",
+      "description": "ACR informed lessees of township requirements and regulatory obligations through additional documents.",
+      "paragraphCitation": "[9]",
+      "supportingText": "The judgment details that lessees were instructed to \"conform with all local health regulations\" and follow guidelines in the document \"General Information for Lessees on Railway Lands.\""
+    },
+    {
+      "factId": "F5",
+      "description": "The cottages were constructed with significant effort and intended for long-term, year-round use.",
+      "paragraphCitation": "[10]",
+      "supportingText": "The cottages were described as having been built \"with blood, sweat and tears,\" and characterized as \"attractive, solid, stable buildings\" that were \"built for the long term to be used all year.\""
+    },
+    {
+      "factId": "F6",
+      "description": "Despite lease terms stating that the sites could not be used for continuous year-round habitation, evidence showed that the cottages were used throughout the year.",
+      "paragraphCitation": "[11]",
+      "supportingText": "It was established that the cottages were \"used at all times of the year, during vacations, holidays, weekends, etc.\""
+    },
+    {
+      "factId": "F7",
+      "description": "By December 2005, after Timberlakes acquired the property, there were significant proposed rent increases.",
+      "paragraphCitation": "[13]",
+      "supportingText": "The judgment notes that \"notices proposed significantly increased rents to roughly $2,000 per lot per year.\""
+    },
+    {
+      "factId": "F8",
+      "description": "Timberlakes sought to replace existing leases with licences that granted it unfettered discretion regarding renewal and imposed a 30-day period for cottage removal.",
+      "paragraphCitation": "[14]",
+      "supportingText": "The proposed licence agreements indicated that lessees had \"30 days to remove their cottages\" and described the premises as \"seasonal, recreational campsites.\""
+    },
+    {
+      "factId": "F9",
+      "description": "The Landlord and Tenant Board dismissed the appellants' application that the Act applied to their premises.",
+      "paragraphCitation": "[20]",
+      "supportingText": "The record shows that \"The Landlord and Tenant Board dismissed the appellants' application\" for a declaration that the Act applied."
+    },
+    {
+      "factId": "F10",
+      "description": "The Divisional Court dismissed the appeal, holding that the premises were not 'residential'.",
+      "paragraphCitation": "[21]",
+      "supportingText": "It was found that \"the Divisional Court dismissed the appeal, holding that the premises were not 'residential'.\""
+    },
+    {
+      "factId": "F11",
+      "description": "The appellate judge emphasized the need to read the Act in its entire context.",
+      "paragraphCitation": "[22]",
+      "supportingText": "The judgment instructs that \"the words of an Act . . . be read in their entire context and in their grammatical and ordinary sense.\""
+    },
+    {
+      "factId": "F12",
+      "description": "Evidence established that the cottages met the definition of 'living accommodation' by having essential residential facilities.",
+      "paragraphCitation": "[25]",
+      "supportingText": "It was stated that \"the cottages contained sleeping and living quarters as well as kitchen facilities.\""
+    },
+    {
+      "factId": "F13",
+      "description": "The court concluded that despite recreational use, the premises qualify as 'residential' under the Act.",
+      "paragraphCitation": "[37]",
+      "supportingText": "The judge declared, \"I conclude that the lessees' sites are subject to the Act,\" affirming their residential status."
+    },
+    {
+      "factId": "F14",
+      "description": "The court rejected the argument that Section 9(1)(a) permits the Board to exempt landlords from their statutory obligations.",
+      "paragraphCitation": "[39]",
+      "supportingText": "It was held that \"Section 9(1)(a) is not intended to give the Board unfettered discretion\" to relieve landlords of their obligations."
+    },
+    {
+      "factId": "F15",
+      "description": "Costs were awarded to the appellants in the fixed amount of $3,000.",
+      "paragraphCitation": "[47]",
+      "supportingText": "The judgment awards costs by stating, \"I would award costs to the appellants payable by the respondent fixed in the agreed-upon amount of $ 3,000.\""
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "OF1",
+      "description": "Cottages met the definition of 'living accommodation' by having essential residential facilities.",
+      "paragraphCitation": "[25]",
+      "supportingText": "The judgment notes, \"the cottages contained sleeping and living quarters as well as kitchen facilities.\"",
+      "relevanceExplanation": "This fact directly supports the conclusion that the premises qualify as 'residential' under the Act.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Definition of 'residential'"
+        ],
+        "keyConsiderations": [
+          "Presence of essential residential facilities",
+          "Evidence of long-term residential intent"
+        ]
+      }
+    },
+    {
+      "factId": "OF2",
+      "description": "The cottages were used throughout the year rather than solely on a seasonal basis.",
+      "paragraphCitation": "[11]",
+      "supportingText": "It was established that they were \"used at all times of the year, during vacations, holidays, weekends, etc.\"",
+      "relevanceExplanation": "Year-round occupancy supports the classification of the premises as residential rather than temporary or purely recreational.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Definition of 'residential'"
+        ],
+        "keyConsiderations": [
+          "Continuous use beyond seasonal occupancy"
+        ]
+      }
+    },
+    {
+      "factId": "OF3",
+      "description": "The court rejected the argument that Section 9(1)(a) permits exemption from landlord obligations.",
+      "paragraphCitation": "[39]",
+      "supportingText": "The judge stated, \"Section 9(1)(a) is not intended to give the Board unfettered discretion.\"",
+      "relevanceExplanation": "This finding clarified that the Board cannot exempt landlords from statutory duties, directly impacting the outcome regarding landlord responsibilities.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Jurisdiction for exemptions"
+        ],
+        "keyConsiderations": [
+          "Statutory limits of Section 9(1)(a)",
+          "Landlord obligations under the Act"
+        ]
+      }
+    },
+    {
+      "factId": "OF4",
+      "description": "The lease structure, with long-term renewability, supported the residential nature of the cottages.",
+      "paragraphCitation": "[6]",
+      "supportingText": "The record indicates that \"all recreational leases were written . . . with a 20 year less a day lease, with a [renewable] term of one year.\"",
+      "relevanceExplanation": "This long-term lease arrangement underscores the intention for continuous occupancy, reinforcing the residential classification.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Definition of 'residential'"
+        ],
+        "keyConsiderations": [
+          "Long-term lease duration",
+          "Renewable lease terms"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the term 'residential' under the Residential Tenancies Act applies to the cottages used as second homes in a land lease community.",
+      "paragraphCitation": "[37]",
+      "supportingText": "The judgment asserts, \"I conclude that the lessees' sites are subject to the Act,\" indicating the applicability of the term 'residential'.",
+      "analysis": [
+        {
+          "analysisId": "IA1",
+          "description": "The court analyzed the statutory definitions, noting that a 'rental unit' must be living accommodation used as rented residential premises, a criteria the cottages met through their physical characteristics and long-term lease structure.",
+          "paragraphCitation": "[24]-[26]",
+          "supportingText": "It was emphasized that the cottages provided \"sleeping and living quarters as well as kitchen facilities\" and were indeed \"rented\" premises."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "ID1",
+          "description": "The court declared that the Act applies to the cottages, affirming their classification as residential.",
+          "paragraphCitation": "[37]",
+          "supportingText": "The judge concluded, \"I conclude that the lessees' sites are subject to the Act,\" thereby confirming the residential status of the premises."
+        }
+      ]
+    },
+    {
+      "issueId": "I2",
+      "description": "Whether Section 9(1)(a) of the Act gives the Board jurisdiction to exempt landlords from their statutory obligations.",
+      "paragraphCitation": "[39]",
+      "supportingText": "The judgment states, \"Section 9(1)(a) is not intended to give the Board unfettered discretion,\" directly addressing this issue.",
+      "analysis": [
+        {
+          "analysisId": "IA2",
+          "description": "The court examined the statutory language and previous case interpretations, concluding that the power to exempt a landlord from obligations does not reside in Section 9(1)(a) but must be expressly provided by the Act.",
+          "paragraphCitation": "[39]-[40]",
+          "supportingText": "It was noted that \"jurisdiction to exempt the landlord from its obligations could only flow from the provisions of the RTA itself.\""
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "ID2",
+          "description": "The court held that the Board does not have jurisdiction to exempt the landlord from obligations under sections 20 and 161 of the Act.",
+          "paragraphCitation": "[39]",
+          "supportingText": "The decision clarified that \"Section 9(1)(a) does not give the Board the jurisdiction to grant a landlord a statutory exemption.\""
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "Residential Tenancies Act, 2006, S.O. 2006, c. 17",
+      "name": "Residential Tenancies Act, 2006",
+      "section": "1, 2(1), 3(1), 4, 5(a), 9(1)(a), 20, 161, 202",
+      "description": "Legislation that sets out the rights and responsibilities of residential landlords and tenants in Ontario.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "O. Reg. 517/06",
+      "name": "O. Reg. 517/06 (Residential Tenancies Act, 2006)",
+      "section": "2(2), 10(1), 10(4), 14(5)",
+      "description": "Regulation outlining maintenance standards applicable to rental units.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Appeal allowed with a declaration that the Residential Tenancies Act applies to the land lease sites; the exemption claim regarding landlord obligations was dismissed.",
+    "sentence": "",
+    "monetaryAward": 3000,
+    "conditions": "Orders set aside and a declaration issued regarding the applicability of the Act.",
+    "appealInformation": {
+      "appealAllowed": false,
+      "appealDeadline": "",
+      "appellateCourt": ""
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "",
+        "description": "",
+        "fileReference": ""
+      }
+    ],
+    "additionalDocuments": []
+  }
+}

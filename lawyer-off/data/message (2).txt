@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "caseNumber": "2016 ONCA 477",
+    "caseTitle": "Onyskiw et al. v. CJM Property Management Ltd.",
+    "court": "Court of Appeal for Ontario",
+    "judges": [
+      "Weiler J.A.",
+      "Cronk J.A.",
+      "Benotto J.A."
+    ],
+    "dateOfJudgment": "June 16, 2016",
+    "dateOfHearing": ""
+  },
+  "summary": {
+    "abstract": "Tenants appealed for a rent abatement claim following a prolonged elevator outage in a 63-unit six‐storey building. The court examined whether the landlord fulfilled its statutory maintenance obligations under s. 20(1) of the Residential Tenancies Act, 2006, and whether the board’s decision to dismiss the claim was reasonable.",
+    "outcome": "Appeal dismissed",
+    "verdict": "The Court of Appeal upheld the board’s decision, confirming that the landlord acted reasonably and met its contractual and statutory obligations.",
+    "recommendations": "No costs awarded and no further remedy ordered."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Onyskiw et al.",
+        "role": "Tenant/Appellant",
+        "attorney": "Lesli Bisgould and Kenneth Hale"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "CJM Property Management Ltd.",
+        "role": "Landlord/Respondent",
+        "attorney": "S. David Lyman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "Tenants reside in a 63-unit six-storey building in Kingston that was constructed in 1983 with an elevator installed despite not being required by building code.",
+      "paragraphCitation": "[5]",
+      "supportingText": "‘The appellants are tenants in a 63-unit six-storey building in Kingston. The building was not required by building code requirements to have an elevator... but one was nevertheless installed when the building was built in 1983.’"
+    },
+    {
+      "factId": "F2",
+      "description": "The elevator, maintained under contract and compliant with regular inspections, broke down on November 28, 2012 due to a latent defect in the brake drum.",
+      "paragraphCitation": "[6]",
+      "supportingText": "‘The elevator was under a maintenance contract and the elevator company performed regular maintenance on it. The elevator passed all annual and monthly inspections and the licence for the elevator had been renewed when it broke down on November 28, 2012. The reason the elevator broke down was a latent defect with the brake drum.’"
+    },
+    {
+      "factId": "F3",
+      "description": "Following the breakdown, the landlord initiated the process to replace the elevator and took interim measures, incurring costs exceeding $30,000.",
+      "paragraphCitation": "[7]",
+      "supportingText": "‘When the elevator broke down in November 2012, the landlord decided to begin the process to replace the elevator. In the interim, it took steps to get the elevator back in operation as quickly as possible. It paid in excess of $30,000 in costs to a third party elevator company.’"
+    },
+    {
+      "factId": "F4",
+      "description": "The elevator was out of service for 96 days overall, with a complete outage on the fourth floor from May 8 to 20, 2013.",
+      "paragraphCitation": "[8]",
+      "supportingText": "‘The elevator was out of service for a total of 96 days between November 28, 2012 and October 4, 2013. During the entire period May 8-20, 2013, the elevator was not functioning at all on the fourth floor.’"
+    },
+    {
+      "factId": "F5",
+      "description": "The landlord attempted to update tenants regarding service interruptions, though three unplanned periods totaling 36 days went unannounced.",
+      "paragraphCitation": "[9]",
+      "supportingText": "‘The landlord attempted to keep the tenants updated about service interruptions. However, three periods of interrupted service totalling 36 days were unplanned and therefore unannounced.’"
+    },
+    {
+      "factId": "F6",
+      "description": "A province-wide elevator technician strike delayed the scheduled shutdown for elevator replacement, pushing the period from May 13–June 21, 2013 to August 6, 2013.",
+      "paragraphCitation": "[10]",
+      "supportingText": "‘At one point during the relevant time period, there was a province-wide elevator technician strike. The elevator was originally scheduled to be shut down for a six-week period from May 13 to June 21, 2013... but due to the strike the scheduled shutdown was pushed back until August 6, 2013.’"
+    },
+    {
+      "factId": "F7",
+      "description": "Tenants, including elderly individuals and those with mobility issues, experienced significant hardship and uncertainty due to the elevator outage.",
+      "paragraphCitation": "[11]",
+      "supportingText": "‘The tenants, some of whom are elderly or have mobility issues, experienced a great deal of difficulty living in a building without a functioning elevator, and often lived in a state of uncertainty not knowing if or when the elevator would cease functioning.’"
+    },
+    {
+      "factId": "F8",
+      "description": "The landlord incurred additional costs of $15,400 for labour for runners and $5,200 for an evacuation chair to assist tenants during the elevator outage.",
+      "paragraphCitation": "[12]",
+      "supportingText": "‘The landlord paid $15,400 in labour costs for runners to assist tenants who had difficulty climbing stairs... and a further $5,200 to obtain an evacuation chair for use in emergencies while the elevator was out of operation.’"
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "ORF1",
+      "description": "The elevator broke down due to a latent defect despite regular maintenance.",
+      "paragraphCitation": "[6]",
+      "supportingText": "‘...the licence had been renewed when it broke down on November 28, 2012. The reason the elevator broke down was a latent defect with the brake drum.’",
+      "relevanceExplanation": "This fact is critical as it shows the breakdown was due to an inherent defect rather than poor maintenance, supporting the landlord's claim of acting reasonably.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Interpretation of statutory maintenance obligations",
+          "Assessment of landlord's duty under s.20(1)"
+        ],
+        "keyConsiderations": [
+          "Latent defect",
+          "Compliance with maintenance schedules",
+          "Inspection results"
+        ]
+      }
+    },
+    {
+      "factId": "ORF2",
+      "description": "The elevator was non-operational for 96 days, with a specific outage on the fourth floor.",
+      "paragraphCitation": "[8]",
+      "supportingText": "‘The elevator was out of service for a total of 96 days between November 28, 2012 and October 4, 2013. During the entire period May 8-20, 2013, the elevator was not functioning at all on the fourth floor.’",
+      "relevanceExplanation": "This quantifies the disruption faced by tenants, which is central to the rent abatement claim.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Moderate",
+        "relationToIssues": [
+          "Extent of service disruption",
+          "Interference with tenant enjoyment"
+        ],
+        "keyConsiderations": [
+          "Total duration of outage",
+          "Impact on specific building areas"
+        ]
+      }
+    },
+    {
+      "factId": "ORF3",
+      "description": "The landlord proactively initiated elevator replacement and incurred significant costs for repairs and tenant assistance.",
+      "paragraphCitation": "[7] and [12]",
+      "supportingText": "‘When the elevator broke down in November 2012, the landlord decided to begin the process to replace the elevator... It paid in excess of $30,000 in costs...’ and ‘The landlord paid $15,400 in labour costs for runners... and a further $5,200 to obtain an evacuation chair.’",
+      "relevanceExplanation": "Demonstrates that the landlord took reasonable and proactive measures, which undermines the argument for a breach of duty.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Reasonableness of landlord's maintenance and repair efforts"
+        ],
+        "keyConsiderations": [
+          "Substantial financial investment",
+          "Interim repair measures",
+          "Provision of tenant assistance"
+        ]
+      }
+    },
+    {
+      "factId": "ORF4",
+      "description": "There were three unplanned and unannounced service interruptions totaling 36 days.",
+      "paragraphCitation": "[9]",
+      "supportingText": "‘However, three periods of interrupted service totalling 36 days were unplanned and therefore unannounced.’",
+      "relevanceExplanation": "This fact highlights a lapse in tenant communication, which factors into the overall assessment of the landlord’s duty, though it does not solely establish a breach.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Moderate",
+        "relationToIssues": [
+          "Tenant communication",
+          "Interference with tenant enjoyment"
+        ],
+        "keyConsiderations": [
+          "Extent and notice of interruptions"
+        ]
+      }
+    },
+    {
+      "factId": "ORF5",
+      "description": "A province-wide elevator technician strike delayed the scheduled repair shutdown.",
+      "paragraphCitation": "[10]",
+      "supportingText": "‘...there was a province-wide elevator technician strike. The scheduled shutdown was pushed back until August 6, 2013.’",
+      "relevanceExplanation": "Indicates that external factors affected repair timelines, mitigating the landlord’s liability for delays.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Low",
+        "relationToIssues": [
+          "External factors affecting maintenance"
+        ],
+        "keyConsiderations": [
+          "Impact of the technician strike on scheduling"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the Divisional Court erred in selecting and applying the standard of review.",
+      "paragraphCitation": "[25]-[37]",
+      "supportingText": "‘This appeal raises two issues: (1) Did the Divisional Court err in its selection and application of the standard of review?’ Analysis in paragraphs [26]-[31] confirms that a reasonableness standard is appropriate given the board’s specialized expertise.",
+      "analysis": [
+        {
+          "analysisId": "I1-A1",
+          "description": "The court affirmed that a reasonableness standard applies in reviewing board decisions due to the board's expertise in interpreting its home statute.",
+          "paragraphCitation": "[26]-[31]",
+          "supportingText": "‘...the board administers a specialized adjudicative regime for resolving residential tenancy disputes...’"
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "I1-D1",
+          "description": "The Divisional Court did not err in selecting and applying the reasonableness standard.",
+          "paragraphCitation": "[35]-[37]",
+          "supportingText": "‘The Divisional Court did not err in its selection of the appropriate standard of review...’"
+        }
+      ]
+    },
+    {
+      "issueId": "I2",
+      "description": "Whether the Divisional Court erred in holding that the board's interpretation of s.20 of the RTA was reasonable.",
+      "paragraphCitation": "[25], [38]-[60]",
+      "supportingText": "‘This appeal raises... (2) Did the board err in its interpretation of s. 20 of the RTA?’ Detailed analysis from paragraphs [38]-[60] addresses statutory interpretation and the adoption of a contextual approach.",
+      "analysis": [
+        {
+          "analysisId": "I2-A1",
+          "description": "The court applied general principles of statutory interpretation, reading the Act in its full context as advocated by Driedger.",
+          "paragraphCitation": "[38]-[40]",
+          "supportingText": "‘the words of an Act are to be read in their entire context and in their grammatical and ordinary sense...’"
+        },
+        {
+          "analysisId": "I2-A2",
+          "description": "The court rejected the tenants’ interpretation that any service interruption automatically constitutes a breach, emphasizing harmonization and practical limitations.",
+          "paragraphCitation": "[52]-[57]",
+          "supportingText": "‘The interpretation of s. 20(1) proposed by the tenants would result in the legislation not functioning logically...’"
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "I2-D1",
+          "description": "The Divisional Court correctly held that the board's interpretation of s.20 was reasonable.",
+          "paragraphCitation": "[50], [55]-[60]",
+          "supportingText": "‘I would agree with the conclusion of the Divisional Court that the board's interpretation... was reasonable.’"
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "Residential Tenancies Act, 2006, S.O. 2006, c. 17, s. 20(1)",
+      "name": "Residential Tenancies Act, 2006",
+      "section": "20(1)",
+      "description": "Mandates that a landlord is responsible for providing and maintaining a residential complex in good repair and fit for habitation.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "O. Reg. 516/06, s. 8",
+      "name": "Ontario Regulation 516/06",
+      "section": "s.8",
+      "description": "Governs notice requirements and conditions for rent abatement applications under the RTA.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "O. Reg. 517/06, s. 43",
+      "name": "Ontario Regulation 517/06",
+      "section": "s.43",
+      "description": "Establishes maintenance standards for elevators intended for use by tenants.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "Landlord and Tenant Act, R.S.O. 1970, c. 236, s. 96(1)",
+      "name": "Landlord and Tenant Act, 1970",
+      "section": "s.96(1)",
+      "description": "Predecessor statute outlining landlord obligations.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "[2011] O.J. No. 260, 2011 ONCA 54",
+      "name": "First Ontario Realty Corp. v. Deng",
+      "section": "N/A",
+      "description": "Established that board decisions are subject to a standard of reasonableness.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "[2008] 1 S.C.R. 190, 2008 SCC 9",
+      "name": "Dunsmuir v. New Brunswick",
+      "section": "N/A",
+      "description": "Set precedent for applying a reasonableness standard in administrative decisions.",
+      "jurisdiction": "Canada",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Appeal dismissed",
+    "sentence": "Dismissal of appeal without awarding costs",
+    "monetaryAward": 0,
+    "conditions": "No costs awarded; no further remedy ordered",
+    "appealInformation": {
+      "appealAllowed": false,
+      "appealDeadline": "",
+      "appellateCourt": "Court of Appeal for Ontario"
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "",
+        "description": "",
+        "fileReference": ""
+      }
+    ],
+    "additionalDocuments": []
+  }
+}

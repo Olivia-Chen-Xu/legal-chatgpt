@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "caseNumber": "2022 ONCA 310",
+    "caseTitle": "Render v. ThyssenKrupp Elevator (Canada) Limited",
+    "court": "Court of Appeal for Ontario",
+    "judges": [
+      "Feldman J.A.",
+      "Pepall J.A.",
+      "Tulloch J.A."
+    ],
+    "dateOfJudgment": "2022-04-20",
+    "dateOfHearing": "2021-10-12"
+  },
+  "summary": {
+    "abstract": "The case involves Mark Render, a long-serving employee in a managerial role, appealing his dismissal for cause following an incident in which he touched a female co-worker's buttocks during an office exchange. The trial judge upheld his termination on the basis that the misconduct, occurring in a recently regulated workplace environment, breached both company policy and the expected standards of managerial conduct.",
+    "outcome": "The appeal on wrongful dismissal and punitive damages was dismissed, while the appeal regarding entitlement to eight weeks' statutory termination pay and the costs award was allowed.",
+    "verdict": "Dismissal for cause was upheld; ESA termination pay granted; punitive damages claim dismissed; costs award reversed.",
+    "recommendations": "No punitive damages awarded; eight weeks' termination pay to be provided; costs award set aside with no costs imposed for the trial."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Mark Render",
+        "role": "Plaintiff (Appellant)",
+        "attorney": "Chris Foulon and Behzad Hassibi"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "ThyssenKrupp Elevator (Canada) Limited",
+        "role": "Defendant (Respondent)",
+        "attorney": "David G. Cowling and Alexander J. Sinclair"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "Mark Render, a 30-year employee and operations manager, was dismissed for cause following an incident involving physical contact with a co-worker.",
+      "paragraphCitation": "[1]",
+      "supportingText": "\"The appellant employee appeals from the judgment that upheld his dismissal for cause by the respondent employer. The appellant was a 30-year employee in a managerial role. His dismissal followed a single incident that occurred in the workplace where the appellant slapped a female co-worker on her buttocks.\""
+    },
+    {
+      "factId": "F2",
+      "description": "The incident occurred on February 28, 2014, when the appellant, during a joking exchange, ended up touching the co-worker's buttocks.",
+      "paragraphCitation": "[12]-[16]",
+      "supportingText": "\"...he made a sweeping gesture with his right hand, intending to tap Ms. Vieira on the hip and said, 'get outta here'. However, he testified that he either lost his balance or she turned, with the result that his hand touched her buttocks. When that happened, he said, 'good game'.\""
+    },
+    {
+      "factId": "F3",
+      "description": "Ms. Vieira immediately expressed that the contact was inappropriate and reported the incident to her manager and later to HR.",
+      "paragraphCitation": "[16]-[17]",
+      "supportingText": "\"She gasped, said that what he did was not okay, and that she could not believe he had done it.\" and \"I was thinking about this and I felt upset. I don't want the other men in the office to think it is OK to do that to me so I decided to talk to my Manager about it.\""
+    },
+    {
+      "factId": "F4",
+      "description": "The incident took place in an office characterized by a culture of joking and banter, though the behavior crossed acceptable physical boundaries.",
+      "paragraphCitation": "[7]-[8]",
+      "supportingText": "\"There was a very social atmosphere in the Mississauga office, including lunches and other events and regular joking and bantering... The women employees, including Ms. Vieira, were not included in this activity.\""
+    },
+    {
+      "factId": "F5",
+      "description": "The respondent introduced a new Anti-Harassment and Anti-Discrimination Policy on February 20, 2014, which was in effect at the time of the incident.",
+      "paragraphCitation": "[10]",
+      "supportingText": "\"The policy states that the respondent has 'zero tolerance' for harassment and discrimination, provides that sexual advances and touching are considered sexual harassment, and states that an employee who engages in conduct that is contrary to the policy will be subject to appropriate discipline, up to and including termination of employment.\""
+    },
+    {
+      "factId": "F6",
+      "description": "A Progressive Discipline Process Policy was in place that typically began with coaching and warnings, but the incident was deemed severe enough to warrant immediate termination.",
+      "paragraphCitation": "[11]",
+      "supportingText": "\"The progressive discipline under this policy would '[t]ypically' begin with coaching, move up to a verbal warning, then a written warning, final warning with suspension, and termination.\""
+    },
+    {
+      "factId": "F7",
+      "description": "Witness testimony varied regarding details of the incident, including the extent of the contact and whether it was accidental.",
+      "paragraphCitation": "[13]-[15]",
+      "supportingText": "\"Ms. Vieira said that she was spanked on her buttocks, while the appellant described it as a light tap and testified that he said, 'good game' after his hand touched her.\""
+    },
+    {
+      "factId": "F8",
+      "description": "The appellant's subsequent behavior, including a remark about a $10 handshake, indicated a lack of appropriate remorse.",
+      "paragraphCitation": "[18]",
+      "supportingText": "\"...the appellant admitted that he said, 'for 10 bucks you can shake my hand.'\""
+    },
+    {
+      "factId": "F9",
+      "description": "The appellant was terminated on March 6, 2014, and received no severance, termination, or vacation pay.",
+      "paragraphCitation": "[27]",
+      "supportingText": "\"...the appellant was handed a termination letter. He was given no severance, termination, or vacation pay.\""
+    },
+    {
+      "factId": "F10",
+      "description": "Following the incident, an HR investigation was conducted and a meeting on March 3, 2014 led to Ms. Vieira making a formal complaint.",
+      "paragraphCitation": "[23]-[24]",
+      "supportingText": "\"At the start of the following week, on March 3, Ms. Vieira advised Mr. Platt that she had decided to report the incident to HR...\""
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "ORF1",
+      "description": "The appellant, in his managerial role, had a duty to enforce the newly introduced Anti-Harassment Policy, and his conduct was a breach of that responsibility.",
+      "paragraphCitation": "[38]",
+      "supportingText": "\"...he found that the appellant was in a position of authority over Ms. Vieira and that the nature of the employment relationship 'is a factor which exacerbates the seriousness of the misconduct'.\"",
+      "relevanceExplanation": "This fact was crucial as it underscored the heightened standard expected from a manager, directly influencing the decision to uphold his dismissal.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Just Cause",
+          "Managerial Responsibility"
+        ],
+        "keyConsiderations": [
+          "Failure to adhere to the new policy",
+          "Abuse of supervisory power"
+        ]
+      }
+    },
+    {
+      "factId": "ORF2",
+      "description": "The respondent's Anti-Harassment and Anti-Discrimination Policy, with a zero tolerance stance, was in effect at the time of the incident.",
+      "paragraphCitation": "[10]",
+      "supportingText": "\"The policy states that the respondent has 'zero tolerance' for harassment and discrimination... and that sexual harassment can arise from a single incident.\"",
+      "relevanceExplanation": "The strict provisions of the policy directly impacted the assessment of the appellant's actions, marking them as a serious breach.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Just Cause",
+          "Policy Compliance"
+        ],
+        "keyConsiderations": [
+          "Zero tolerance clause",
+          "Clear guidelines on unacceptable conduct"
+        ]
+      }
+    },
+    {
+      "factId": "ORF3",
+      "description": "The appellant's post-incident behavior, including making a remark about a $10 handshake, demonstrated a lack of genuine remorse.",
+      "paragraphCitation": "[18]",
+      "supportingText": "\"...the appellant admitted that he said, 'for 10 bucks you can shake my hand,' which indicated his failure to appreciate the seriousness of his conduct.\"",
+      "relevanceExplanation": "This lack of remorse undermined his credibility and supported the finding that his conduct was not sufficiently contrite to warrant a more lenient disciplinary response.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Credibility",
+          "Remorse"
+        ],
+        "keyConsiderations": [
+          "Inadequate apology",
+          "Minimization of the incident"
+        ]
+      }
+    },
+    {
+      "factId": "ORF4",
+      "description": "The trial judge applied the McKinley analysis and determined that the termination was a proportionate response to the misconduct.",
+      "paragraphCitation": "[43]-[45]",
+      "supportingText": "\"...he concluded that the respondent had met its onus and established that summary dismissal was the appropriate response in all the circumstances.\"",
+      "relevanceExplanation": "This analytical approach was central to upholding the dismissal for cause, emphasizing that the punishment matched the severity of the misconduct.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Just Cause",
+          "Proportionality"
+        ],
+        "keyConsiderations": [
+          "Application of the McKinley framework",
+          "Seriousness of the misconduct"
+        ]
+      }
+    },
+    {
+      "factId": "ORF5",
+      "description": "The respondent's litigation conduct, including hiring a media consultant who issued an inflammatory press release, affected the costs award.",
+      "paragraphCitation": "[46]-[49]",
+      "supportingText": "\"...the trial judge expressed serious concerns with respect to the manner in which the defence was conducted, noting that the press release was inflammatory and potentially intended to pressure the appellant.\"",
+      "relevanceExplanation": "This misconduct was pivotal in reversing the costs award, as it undermined the integrity of the litigation process.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Litigation Misconduct",
+          "Costs"
+        ],
+        "keyConsiderations": [
+          "Inflammatory press release",
+          "Breach of the witness exclusion order"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the trial judge erred by making factual findings that were not supported by the evidence, particularly regarding the accidental nature of the contact and the appellant's remorse.",
+      "paragraphCitation": "[52]-[57]",
+      "supportingText": "The appellant argued that the judge should have accepted evidence that the contact was accidental and that his apologies indicated remorse. However, the trial judge rejected these submissions based on witness testimony and contradictory discovery evidence.",
+      "analysis": [
+        {
+          "analysisId": "A1",
+          "description": "The analysis focused on resolving discrepancies in witness testimony and evaluating the appellant's contradictory evidence regarding the nature of the contact and his subsequent behavior.",
+          "paragraphCitation": "[55]-[57]",
+          "supportingText": "The judge noted, 'the appellant's evidence was rejected in light of corroborative witness testimony, including his own remark 'good game' and the inconsistency in his later assertions.'"
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1",
+          "description": "The appellate court upheld the trial judge's factual findings, finding no palpable and overriding error.",
+          "paragraphCitation": "[53]-[57]",
+          "supportingText": "It was determined that the trial judge's findings, including the rejection of the accidental contact claim, were entitled to deference."
+        }
+      ]
+    },
+    {
+      "issueId": "I2",
+      "description": "Whether the trial judge erred in law by finding that there was just cause for termination of the appellant's employment.",
+      "paragraphCitation": "[58]-[69]",
+      "supportingText": "The appellant contended that alternative disciplinary measures existed. Nonetheless, the trial judge applied the McKinley proportionality analysis and concluded that summary dismissal was justified given the seriousness of the misconduct.",
+      "analysis": [
+        {
+          "analysisId": "A2",
+          "description": "The analysis evaluated the proportionality of dismissal under the McKinley framework, weighing the misconduct against the appellant's long service and managerial responsibilities.",
+          "paragraphCitation": "[60]-[66]",
+          "supportingText": "Factors such as policy compliance and the employee's supervisory role were considered, leading to the conclusion that dismissal was proportionate."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D2",
+          "description": "The appeal regarding wrongful dismissal was dismissed, affirming that the termination was legally justified.",
+          "paragraphCitation": "[67]-[69]",
+          "supportingText": "The appellate court found no error in the trial judge's application of the legal test."
+        }
+      ]
+    },
+    {
+      "issueId": "I3",
+      "description": "Whether the trial judge erred by failing to award the appellant his entitlements under the Employment Standards Act (ESA).",
+      "paragraphCitation": "[71]-[79]",
+      "supportingText": "The appellant argued for entitlement to eight weeks' termination pay and severance, while the court recognized entitlement only to termination pay due to statutory limitations.",
+      "analysis": [
+        {
+          "analysisId": "A3",
+          "description": "The analysis centered on the statutory provisions of the ESA and relevant regulations regarding termination and severance pay, assessing whether the appellant met the requirements.",
+          "paragraphCitation": "[72]-[78]",
+          "supportingText": "The court acknowledged that the appellant was entitled to termination pay, but severance pay was not awarded because the respondent's payroll details did not meet the statutory threshold."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D3",
+          "description": "The appeal on ESA entitlements was allowed for termination pay, but not for severance pay.",
+          "paragraphCitation": "[78]-[80]",
+          "supportingText": "Eight weeks of termination pay were awarded, affirming that the appellant's conduct did not meet the higher threshold for severance disentitlement."
+        }
+      ]
+    },
+    {
+      "issueId": "I4",
+      "description": "Whether the trial judge erred by failing to award punitive damages for litigation misconduct.",
+      "paragraphCitation": "[83]-[90]",
+      "supportingText": "The appellant requested punitive damages based on the respondent's litigation

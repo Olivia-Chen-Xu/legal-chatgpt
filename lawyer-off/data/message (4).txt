@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "caseNumber": "CV-20-83037",
+    "caseTitle": "Lamontagne v. J.L. Richards & Associates Limited",
+    "court": "Ontario Superior Court of Justice",
+    "judges": [
+      "Mr. Justice Pierre E. Roger"
+    ],
+    "dateOfJudgment": "March 31, 2021",
+    "dateOfHearing": "March 18 and 19, 2021"
+  },
+  "summary": {
+    "abstract": "This case concerns an application to determine rights arising from an employment contract, specifically the enforceability of the termination clause and the consequent entitlement to common law notice. The court examined whether the termination clause, which attempted to limit notice to the statutory minimum under the ESA, was valid.",
+    "outcome": "Judgment granted in favor of the applicant with an award for common law notice damages.",
+    "verdict": "The entire termination clause is invalid because it breaches the Employment Standards Act, thereby entitling the applicant to common law notice and associated damages.",
+    "recommendations": "The decision recommends that termination clauses must be drafted with clear language that complies with the ESA and that any ambiguity be interpreted in favor of the employee."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Annick Lamontagne",
+        "role": "Applicant",
+        "attorney": "J.F. Lalonde"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "J. L. Richards & Associates Limited",
+        "role": "Respondent",
+        "attorney": "Alan Riddell/Kyle Van Schie"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "The case arises from an application to determine rights under an employment contract, specifically regarding the enforceability of the termination clause.",
+      "paragraphCitation": "[1]",
+      "supportingText": "\"This is an application for determination of rights arising pursuant to an employment contract between the parties. Specifically, the court has been asked to determine if the instant termination clause is enforceable, and if not, what damages the applicant is entitled to.\""
+    },
+    {
+      "factId": "F2",
+      "description": "The applicant was employed by the respondent for about six and one quarter years, initially as an assistant controller and later as controller.",
+      "paragraphCitation": "[3]",
+      "supportingText": "\"The applicant, Ms. Lamontagne, is a well-educated, bilingual chartered accountant who was employed by the respondent, J.L. Richards & Associates Limited, from November 2013 to February 19, 2020; about six and one quarter years. She was hired as assistant controller, and as expected, quickly progressed to controller.\""
+    },
+    {
+      "factId": "F3",
+      "description": "The applicant was 36 years old when her employment was terminated without cause.",
+      "paragraphCitation": "[4]",
+      "supportingText": "\"The applicant was 36 years old when her employment was terminated without cause.\""
+    },
+    {
+      "factId": "F4",
+      "description": "The respondent relied on the termination clause to limit payment to only the amounts provided under the ESA.",
+      "paragraphCitation": "[4]",
+      "supportingText": "\"The respondent paid the applicant all amounts owing to the date of her dismissal and relied on the above termination clause to only pay for notice of termination the amounts owing under the Employment Standards Act, 2000, S.O. 2000, C. 41 ('ESA').\""
+    },
+    {
+      "factId": "F5",
+      "description": "The central issue is whether the termination clause validly excludes the entitlement to common law notice.",
+      "paragraphCitation": "[5]",
+      "supportingText": "\"At issue is whether common law notice was also payable or whether common law notice was unavailable because it had been excluded by the above termination clause which provides no entitlement to common law notice of termination.\""
+    },
+    {
+      "factId": "F6",
+      "description": "The employment contract included distinct termination provisions, including a 'for cause' clause.",
+      "paragraphCitation": "[25]",
+      "supportingText": "\"In this case, the termination 'for cause' clause provides: 'Employment may be terminated for cause at any time, without notice.'\""
+    },
+    {
+      "factId": "F7",
+      "description": "The court determined that the termination clause, when read as a whole, attempted to contract out of the minimum statutory obligations under the ESA.",
+      "paragraphCitation": "[37]",
+      "supportingText": "\"As a result, the 'for cause' termination provision is illegal as it incorporates the common law 'just cause' concept... This is an attempt to contract out of the minimum standards prescribed by the ESA and voids the entire clause.\""
+    },
+    {
+      "factId": "F8",
+      "description": "The damages calculation included a ten-month notice period along with additional amounts for benefits, bonus, overtime, and out-of-pocket expenses.",
+      "paragraphCitation": "[55]-[77]",
+      "supportingText": "\"The applicant argues that she is entitled to a period of 15 months for pay in lieu of notice... In my view, the appropriate period of reasonable notice applicable for the applicant is ten months... the applicant's damages for common law pay-in-lieu of notice... is $40,273.07.\""
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "ORF1",
+      "description": "The court found that the termination clause breaches the ESA, rendering it invalid and entitling the applicant to common law notice.",
+      "paragraphCitation": "[24]",
+      "supportingText": "\"I find that the 'for cause' clause of the respondent's termination clause breaches the ESA. Because of this finding, the entire termination clause is invalid. As a result, the Applicant was entitled to common law notice.\"",
+      "relevanceExplanation": "This finding is outcome-relevant because it directly determines that the applicant is entitled to damages for wrongful dismissal.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "Enforceability of termination clause",
+          "Calculation of damages"
+        ],
+        "keyConsiderations": [
+          "Breach of ESA requirements",
+          "Invalidity of the termination clause"
+        ]
+      }
+    },
+    {
+      "factId": "ORF2",
+      "description": "The appropriate period of notice was determined to be ten months, which is central to the damages calculation.",
+      "paragraphCitation": "[66]",
+      "supportingText": "\"... in my view, the appropriate period of reasonable notice applicable for the applicant is ten months.\"",
+      "relevanceExplanation": "This determination directly affects the monetary award for common law notice damages.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "Medium",
+        "relationToIssues": [
+          "Damages calculation",
+          "Notice period determination"
+        ],
+        "keyConsiderations": [
+          "Assessment of employment factors",
+          "Mitigation efforts by the applicant"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the termination clause validly excludes common law notice of termination.",
+      "paragraphCitation": "[5]",
+      "supportingText": "\"At issue is whether common law notice was also payable or whether common law notice was unavailable because it had been excluded by the above termination clause...\"",
+      "analysis": [
+        {
+          "analysisId": "A1",
+          "description": "The court examined the wording of the termination clause alongside established case law, including Machtinger, Wood, and related decisions, to assess if the clause clearly rebutted the common law presumption of reasonable notice.",
+          "paragraphCitation": "[6]-[9]",
+          "supportingText": "The analysis emphasized that clear language is required to contract out of statutory entitlements and that any ambiguity must be resolved in favor of the employee."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1",
+          "description": "The termination clause is invalid, and thus the applicant is entitled to common law notice.",
+          "paragraphCitation": "[24] and [37]",
+          "supportingText": "\"I find that the 'for cause' clause breaches the ESA. Because of this finding, the entire termination clause is invalid.\""
+        }
+      ]
+    },
+    {
+      "issueId": "I2",
+      "description": "Determination of the appropriate notice period and calculation of damages for wrongful dismissal.",
+      "paragraphCitation": "[55]-[64]",
+      "supportingText": "The decision reviews multiple factors including length of service, age, and the impact of the economic environment (notably COVID-19) to establish the notice period and corresponding damages.",
+      "analysis": [
+        {
+          "analysisId": "A2",
+          "description": "The court applied the Bardal criteria, considering factors such as the applicant's age, duration of service, character of employment, and mitigation efforts, to determine that a ten-month notice period was appropriate.",
+          "paragraphCitation": "[60]-[64]",
+          "supportingText": "Discussion of the relevant case law and the economic context at the time of termination guided the analysis of the notice period."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D2",
+          "description": "The court awarded damages based on a ten-month notice period, resulting in common law pay-in-lieu of notice of $40,273.07.",
+          "paragraphCitation": "[77]",
+          "supportingText": "\"... the applicant's damages for common law pay-in-lieu of notice... is $40,273.07.\""
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "Employment Standards Act, 2000, S.O. 2000, C. 41",
+      "name": "Employment Standards Act",
+      "section": "5(1)",
+      "description": "Legislation that sets out the minimum statutory requirements for notice, termination pay, and prohibits contracting out of employment standards.",
+      "jurisdiction": "Ontario",
+      "link": "http://intra.judicialsecurity.jus.gov.on.ca/NeutralCitation/"
+    },
+    {
+      "citation": "Machtinger v. HOJ Industries Ltd., [1992] 1 S.C.R. 986",
+      "name": "Machtinger v. HOJ Industries Ltd.",
+      "section": "",
+      "description": "A Supreme Court decision establishing that an employment contract for an indefinite period requires reasonable notice unless clearly stated otherwise.",
+      "jurisdiction": "Canada",
+      "link": ""
+    },
+    {
+      "citation": "North v. Metaswitch Networks Corporation, 2017 ONCA 790",
+      "name": "North v. Metaswitch Networks Corporation",
+      "section": "",
+      "description": "An Ontario Court of Appeal decision addressing the enforceability of termination clauses and the requirement to substitute a greater benefit when contracting out of employment standards.",
+      "jurisdiction": "Ontario",
+      "link": ""
+    },
+    {
+      "citation": "Andros v. Colliers Macaulay Nicolls Inc., 2019 ONCA 679",
+      "name": "Andros v. Colliers Macaulay Nicolls Inc.",
+      "section": "",
+      "description": "An Ontario Court of Appeal decision on the enforceability of termination clauses and the exclusion of common law notice when statutory minimums are not met.",
+      "jurisdiction": "Ontario",
+      "link": ""
+    },
+    {
+      "citation": "Bardal v. The Globe & Mail Ltd., (1960)",
+      "name": "Bardal v. The Globe & Mail Ltd.",
+      "section": "",
+      "description": "A decision outlining the factors to be considered in determining reasonable notice for wrongful dismissal.",
+      "jurisdiction": "Ontario",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Judgment granted to the applicant with damages for wrongful dismissal.",
+    "sentence": "Invalidation of the termination clause and an award for common law notice damages.",
+    "monetaryAward": 40273.07,
+    "conditions": "The respondent is required to pay the awarded damages and allowed out-of-pocket expenses.",
+    "appealInformation": {
+      "appealAllowed": false,
+      "appealDeadline": "",
+      "appellateCourt": ""
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "A",
+        "description": "Termination for Cause clause from the Court of Appeal decision in Waksdale v. Swegon North America Inc., 2020 ONCA 391, as reproduced in Appendix A.",
+        "fileReference": "Appendix A"
+      }
+    ],
+    "additionalDocuments": []
+  }
+}

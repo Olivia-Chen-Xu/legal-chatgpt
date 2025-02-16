@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "caseNumber": "2022 ONCA 310",
+    "caseTitle": "Render v. ThyssenKrupp Elevator (Canada) Limited",
+    "court": "Court of Appeal for Ontario",
+    "judges": [
+      "Feldman J.A.",
+      "Pepall J.A.",
+      "Tulloch J.A."
+    ],
+    "dateOfJudgment": "2022-04-20",
+    "dateOfHearing": "2021-10-12"
+  },
+  "summary": {
+    "abstract": "The appellant, a 30‐year employee and former manager, appeals the trial judge’s decision upholding his dismissal for cause following an incident where he slapped a female co‐worker on her buttocks. He disputes key factual findings – namely, that the contact was intentional and that his apologies lacked sincerity – and contends that the dismissal was not justified. In addition, he argues he is entitled to statutory benefits under the Employment Standards Act (ESA) and punitive damages for alleged litigation misconduct.",
+    "outcome": "Appeal dismissed regarding wrongful dismissal and punitive damages; allowed regarding ESA entitlement (award of eight weeks’ termination pay) and costs (costs award set aside).",
+    "verdict": "Dismissed on the main grounds of wrongful dismissal and punitive damages; allowed on the ESA entitlement and costs issues.",
+    "recommendations": "No costs of trial are to be awarded; appellant to receive eight weeks’ termination pay."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "Mark Render",
+        "role": "individual",
+        "attorney": "Chris Foulon, Behzad Hassibi"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "ThyssenKrupp Elevator (Canada) Limited",
+        "role": "corporation",
+        "attorney": "David G. Cowling, Alexander J. Sinclair"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "Appellant dismissed for cause after slapping a female co-worker on her buttocks.",
+      "paragraphCitation": "Paragraph [1]",
+      "supportingText": "The incident in the workplace led to a breakdown in the employment relationship and formed the basis for the dismissal."
+    },
+    {
+      "factId": "F2",
+      "description": "Appellant’s employment history spans from 1984 to 2014, including a managerial role after a company sale.",
+      "paragraphCitation": "Paragraph [5]",
+      "supportingText": "He began working at his father’s elevator company, became president, and later served as operations manager at the Mississauga office."
+    },
+    {
+      "factId": "F3",
+      "description": "Workplace culture involved social banter and inappropriate jokes, with female employees not included in certain interactions.",
+      "paragraphCitation": "Paragraphs [6]-[8]",
+      "supportingText": "The office had a joking atmosphere that sometimes crossed professional boundaries, setting the stage for later incidents."
+    },
+    {
+      "factId": "F4",
+      "description": "On February 28, 2014, during an office interaction, the appellant’s hand touched Ms. Vieira’s buttocks after a series of physical and verbal exchanges.",
+      "paragraphCitation": "Paragraphs [12]-[15]",
+      "supportingText": "Witnesses provided differing accounts, but the trial judge found the contact deliberate and inappropriate, noting that the appellant said 'good game' following the incident."
+    },
+    {
+      "factId": "F5",
+      "description": "Ms. Vieira reported the incident immediately and documented her account in contemporaneous emails.",
+      "paragraphCitation": "Paragraphs [16]-[17]",
+      "supportingText": "Her emails detailed her discomfort and emphasized that the contact was unwelcome and inappropriate."
+    },
+    {
+      "factId": "F6",
+      "description": "After the incident, the appellant downplayed the seriousness by joking with colleagues about the episode.",
+      "paragraphCitation": "Paragraphs [18]-[19]",
+      "supportingText": "He made remarks such as offering a joke about a $10 handshake, indicating a lack of genuine remorse."
+    },
+    {
+      "factId": "F7",
+      "description": "Subsequent HR involvement led to a meeting, and on March 6, 2014, the appellant was handed a termination letter.",
+      "paragraphCitation": "Paragraphs [20]-[27]",
+      "supportingText": "The termination was based solely on the incident involving inappropriate touching of Ms. Vieira."
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the trial judge erred by making factual findings not supported by the evidence and by having inconsistent credibility findings regarding the intentional nature of the contact and the appellant’s remorse.",
+      "paragraphCitation": "Paragraphs [52]-[57]",
+      "supportingText": "The appellant argued that the judge should have accepted his claim that the contact was accidental and that his apologies were sincere, while the judge’s deference to witness credibility led to a different conclusion.",
+      "analysis": [
+        {
+          "analysisId": "A1-I1",
+          "description": "The trial judge rejected the appellant’s claim that the contact was accidental, emphasizing the inconsistency in his testimony and relying on corroborative witness evidence.",
+          "paragraphCitation": "Paragraph [55]",
+          "supportingText": "Evidence showed that the appellant initially denied the contact was accidental and later contradicted himself."
+        },
+        {
+          "analysisId": "A2-I1",
+          "description": "The judge scrutinized the appellant’s apologies and found them to be insincere in the context of his subsequent conduct.",
+          "paragraphCitation": "Paragraph [57]",
+          "supportingText": "Despite multiple apologies, the appellant’s behavior and remarks indicated a lack of genuine remorse."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1-I1",
+          "description": "The trial judge’s findings on both the intentional nature of the contact and the lack of genuine remorse were upheld.",
+          "paragraphCitation": "Paragraphs [55]-[57]",
+          "supportingText": "The deference given to the trial judge’s credibility assessments meant that the appellant’s challenges were not successful."
+        }
+      ]
+    },
+    {
+      "issueId": "I2",
+      "description": "Whether the trial judge erred in law by finding that there was just cause for terminating the appellant’s employment.",
+      "paragraphCitation": "Paragraphs [58]-[69]",
+      "supportingText": "The judge applied the McKinley proportionality test, taking into account the severity of the misconduct, the appellant’s managerial responsibilities, and the strict anti-harassment policy.",
+      "analysis": [
+        {
+          "analysisId": "A1-I2",
+          "description": "The trial judge applied the three-part test from McKinley, evaluating the nature of the misconduct, the context, and whether dismissal was a proportional response.",
+          "paragraphCitation": "Paragraphs [36]-[40]",
+          "supportingText": "The analysis included considerations of workplace dignity and the impact on other employees."
+        },
+        {
+          "analysisId": "A2-I2",
+          "description": "Alternative disciplinary measures were considered but ultimately rejected due to the seriousness of the misconduct.",
+          "paragraphCitation": "Paragraphs [64]-[67]",
+          "supportingText": "The combination of the physical contact and lack of contrition justified a summary dismissal."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1-I2",
+          "description": "The trial judge’s decision to terminate the appellant’s employment for cause was upheld.",
+          "paragraphCitation": "Paragraph [67]",
+          "supportingText": "The cumulative evidence and application of the legal test supported the dismissal."
+        }
+      ]
+    },
+    {
+      "issueId": "I3",
+      "description": "Whether the trial judge erred by failing to award the appellant his ESA entitlements.",
+      "paragraphCitation": "Paragraphs [70]-[82]",
+      "supportingText": "The appellant contended that he was entitled to termination and severance pay under the ESA, while the judge awarded only eight weeks’ termination pay, noting limitations such as lack of evidence of the respondent’s payroll size.",
+      "analysis": [
+        {
+          "analysisId": "A1-I3",
+          "description": "The judge examined ESA provisions, confirming that long-serving employees are entitled to eight weeks’ termination pay.",
+          "paragraphCitation": "Paragraphs [72]-[74]",
+          "supportingText": "The appellant’s record of employment supported the entitlement to termination pay."
+        },
+        {
+          "analysisId": "A2-I3",
+          "description": "Insufficient evidence regarding the respondent’s payroll prevented an award of severance pay.",
+          "paragraphCitation": "Paragraph [82]",
+          "supportingText": "Without a demonstration that the payroll met statutory thresholds, the more generous severance award was not justified."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1-I3",
+          "description": "The appellant’s award was limited to eight weeks’ termination pay, with no severance pay awarded.",
+          "paragraphCitation": "Paragraph [82]",
+          "supportingText": "The decision was in line with statutory requirements and the evidence on record."
+        }
+      ]
+    },
+    {
+      "issueId": "I4",
+      "description": "Whether the trial judge erred by failing to award punitive damages for litigation misconduct.",
+      "paragraphCitation": "Paragraphs [83]-[86]",
+      "supportingText": "The appellant sought punitive damages for the respondent’s conduct during litigation; however, the trial judge declined such an award, opting to address the misconduct in the costs determination.",
+      "analysis": [
+        {
+          "analysisId": "A1-I4",
+          "description": "The judge acknowledged that while litigation misconduct can be actionable, punitive damages are an exceptional remedy.",
+          "paragraphCitation": "Paragraph [84]",
+          "supportingText": "The inflammatory press release by the respondent’s media consultant was noted, but the judge chose not to separately award punitive damages."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1-I4",
+          "description": "The decision to not award punitive damages was upheld, with the misconduct instead influencing the costs award.",
+          "paragraphCitation": "Paragraph [86]",
+          "supportingText": "The discretion to address the issue via costs was found to be proper."
+        }
+      ]
+    },
+    {
+      "issueId": "I5",
+      "description": "Whether the trial judge erred in his award of costs.",
+      "paragraphCitation": "Paragraphs [87]-[90]",
+      "supportingText": "The appellant argued that the respondent’s egregious litigation misconduct should preclude any costs award, while the trial judge reduced the respondent’s costs by 50%.",
+      "analysis": [
+        {
+          "analysisId": "A1-I5",
+          "description": "The trial judge initially reduced the costs award by considering the respondent’s success on the merits.",
+          "paragraphCitation": "Paragraph [87]",
+          "supportingText": "The award was partly justified by the outcome on the dismissal issue."
+        },
+        {
+          "analysisId": "A2-I5",
+          "description": "The appellate focus on litigation misconduct led to the conclusion that no costs should be awarded.",
+          "paragraphCitation": "Paragraph [90]",
+          "supportingText": "The misconduct was seen as undermining the fairness of the trial."
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1-I5",
+          "description": "The costs award was set aside and no costs of the trial were ordered.",
+          "paragraphCitation": "Paragraph [90]",
+          "supportingText": "The respondent’s litigation misconduct justified a no-costs order."
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "S.O. 2000, c. 41",
+      "name": "Employment Standards Act, 2000",
+      "section": "Various sections including 55 and 64",
+      "description": "Provides statutory entitlements for termination and severance pay for long-serving employees.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "O. Reg. 288/01",
+      "name": "Termination and Severance of Employment Regulation",
+      "section": "Sections 2(1)3 and 9(1)6",
+      "description": "Sets out the conditions under which employees are disentitled to termination or severance pay.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    },
+    {
+      "citation": "2001 SCC 38",
+      "name": "McKinley v. BC Tel",
+      "section": "",
+      "description": "Established the contextual and proportionality analysis for termination for cause cases.",
+      "jurisdiction": "Supreme Court of Canada",
+      "link": ""
+    },
+    {
+      "citation": "40 O.R. (3d) 577",
+      "name": "Bannister v. General Motors of Canada Ltd.",
+      "section": "",
+      "description": "Commented on workplace culture and the limits of acceptable behavior.",
+      "jurisdiction": "Ontario Court of Appeal",
+      "link": ""
+    },
+    {
+      "citation": "246 D.L.R. (4th) 65",
+      "name": "Dowling v. Ontario (Workplace Safety & Insurance Board)",
+      "section": "",
+      "description": "Set out the three-part test for assessing the proportionality of termination for cause.",
+      "jurisdiction": "Ontario, Canada",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Appeal dismissed regarding wrongful dismissal and punitive damages; allowed regarding eight weeks’ termination pay under ESA entitlement and costs, with the costs award set aside and no trial costs ordered.",
+    "sentence": "Not applicable; however, the appellant is awarded eight weeks’ termination pay under the ESA.",
+    "monetaryAward": 0,
+    "conditions": "No additional conditions; costs award set aside.",
+    "appealInformation": {
+      "appealAllowed": true,
+      "appealDeadline": "",
+      "appellateCourt": "Court of Appeal for Ontario"
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "E1",
+        "description": "Contemporaneous emails from Ms. Vieira documenting the incident.",
+        "fileReference": "Pages 7-8"
+      }
+    ],
+    "additionalDocuments": []
+  }
+}

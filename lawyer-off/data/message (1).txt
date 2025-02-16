@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "caseNumber": "IMM-1959-16",
+    "caseTitle": "THE MINISTER OF CITIZENSHIP AND IMMIGRATION v SAMSON BEKURE TEFERA, KALKIDAN TADESSE ALEMU, THEOBESTA SAMSON TEFERA, ADONAI SAMSON TEFERA, AMRAN SAMSON TEFERA, YODANE SAMSON TEFERA",
+    "court": "Federal Court",
+    "judges": [
+      "Mr. Justice Denis Gascon"
+    ],
+    "dateOfJudgment": "February 21, 2017",
+    "dateOfHearing": "January 9, 2017"
+  },
+  "summary": {
+    "abstract": "The case involves the judicial review of the Immigration Appeal Division (IAD) decision that granted the Tefera family humanitarian and compassionate (H&C) relief despite their significant non-compliance with residency requirements. The Minister argued that the IAD's decision was unreasonable and based on erroneous factual findings.",
+    "outcome": "Judicial review application allowed; the IAD decision is set aside and the matter is remitted for re-determination by a differently constituted panel.",
+    "verdict": "Judgment in favor of the Minister; IAD decision quashed.",
+    "recommendations": "Refer the case back to the IAD for a new determination by a different panel with no costs awarded."
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "The Minister of Citizenship and Immigration",
+        "role": "Applicant",
+        "attorney": "William F. Pentney"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "Samson Bekure Tefera; Kalkidan Tadesse Alemu; Theobesta Samson Tefera; Adonai Samson Tefera; Amran Samson Tefera; Yodane Samson Tefera",
+        "role": "Respondents",
+        "attorney": "Legault Joly Thiffault"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "factId": "F1",
+      "description": "The Tefera family, consisting of Mr. Samson Bekure Tefera, his spouse Ms. Kalkidan Tadesse Alemu, and their four children, are Ethiopian nationals who became permanent residents of Canada in September 2008.",
+      "paragraphCitation": "[1]",
+      "supportingText": "\"The respondents, Mr. Samson Bekure Tefera, his spouse Ms. Kalkidan Tadesse Alemu and their four children, are Ethiopian nationals\" and \"became permanent residents of Canada\" in September 2008."
+    },
+    {
+      "factId": "F2",
+      "description": "After obtaining permanent resident status, the family stayed in Canada for only six weeks in a furnished apartment before returning to Ethiopia.",
+      "paragraphCitation": "[1]",
+      "supportingText": "\"They stayed briefly in Canada for six weeks in a furnished apartment, and then they all returned to Ethiopia.\""
+    },
+    {
+      "factId": "F3",
+      "description": "The family returned to Canada in August 2012 with return tickets to Ethiopia, which they claimed they had no intention of using.",
+      "paragraphCitation": "[2]",
+      "supportingText": "\"It took until August 2012 for the Tefera family to come back to Canada, for the first time in almost four years\" and \"all had return tickets to Ethiopia dated for a few days later, which they claimed they had no intention of using.\""
+    },
+    {
+      "factId": "F4",
+      "description": "The Tefera family could not meet the residency obligation of 730 days within the five-year period.",
+      "paragraphCitation": "[2]",
+      "supportingText": "\"as only some 400 days remained until the end of the five-year period during which they had to stay in Canada for the required minimum of 730 days, it was impossible for the Tefera family to comply with their residency obligation.\""
+    },
+    {
+      "factId": "F5",
+      "description": "An inadmissibility report was prepared and departure orders were issued against the family.",
+      "paragraphCitation": "[2]",
+      "supportingText": "\"An inadmissibility report pursuant to subsection 44(1) of the IRPA was therefore prepared, and the Minister's delegate issued departure orders against them.\""
+    },
+    {
+      "factId": "F6",
+      "description": "The Tefera family filed an appeal with the Immigration Appeal Division (IAD) seeking humanitarian and compassionate relief.",
+      "paragraphCitation": "[3]",
+      "supportingText": "\"The Tefera family thus filed an appeal against the departure orders before the Immigration Appeal Division... alleging that humanitarian and compassionate [H&C] considerations warranted a discretionary relief.\""
+    },
+    {
+      "factId": "F7",
+      "description": "The IAD allowed the family's appeals in April 2016, finding that there were sufficient H&C considerations.",
+      "paragraphCitation": "[4]",
+      "supportingText": "\"In April 2016, the IAD allowed the Tefera family's appeals, concluding that there were sufficient H&C considerations to overcome their inadmissibility.\""
+    },
+    {
+      "factId": "F8",
+      "description": "The Minister sought judicial review of the IAD decision, arguing that it was unreasonable and based on erroneous factual findings.",
+      "paragraphCitation": "[5]",
+      "supportingText": "\"The Minister now seeks judicial review of the IAD Decision and submits that the IAD's conclusions are wholly unreasonable and based on numerous erroneous factual findings.\""
+    },
+    {
+      "factId": "F9",
+      "description": "The sole issue to be determined was whether the IAD decision was reasonable.",
+      "paragraphCitation": "[6]",
+      "supportingText": "\"The sole issue to be determined is whether the IAD Decision was reasonable.\""
+    }
+  ],
+  "outcomeRelevantFacts": [
+    {
+      "factId": "ORF1",
+      "description": "The IAD based its decision primarily on a single positive factor— the family's reasons for departing Canada and their continued stay abroad.",
+      "paragraphCitation": "[12]-[14]",
+      "supportingText": "\"The IAD accepted that the family's reasons for departure and for their continued stay abroad were positive factors...\" and \"the IAD effectively determined that only one factor positively weighed in favour of allowing the appeals.\"",
+      "relevanceExplanation": "This single factor was pivotal in the IAD's decision despite being based on disputed evidence, making it central to the Court's finding of unreasonableness.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "reasonableness of decision",
+          "assessment of H&C factors"
+        ],
+        "keyConsiderations": [
+          "contradictory evidence ignored",
+          "misinterpretation of legal principles",
+          "significant non-compliance with residency obligations"
+        ]
+      }
+    },
+    {
+      "factId": "ORF2",
+      "description": "The family's significant shortfall in meeting the residency requirement, falling approximately 42 days short of the required 730 days, undermines the legitimacy of granting H&C relief.",
+      "paragraphCitation": "[41]",
+      "supportingText": "\"the Tefera family's shortfall in their residency requirement is more than significant in this case, as it totals about 42 of the required minimum of 730 days.\"",
+      "relevanceExplanation": "This factual shortfall directly challenges the basis for H&C relief, contributing to the Court's determination that the IAD decision was unreasonable.",
+      "impactOnOutcome": {
+        "strengthOfImpact": "High",
+        "relationToIssues": [
+          "residency compliance",
+          "legitimacy of H&C relief"
+        ],
+        "keyConsiderations": [
+          "absence of hardship",
+          "lack of family ties",
+          "minimal establishment in Canada"
+        ]
+      }
+    }
+  ],
+  "issues": [
+    {
+      "issueId": "I1",
+      "description": "Whether the IAD Decision was reasonable in granting H&C relief despite significant non-compliance with residency obligations.",
+      "paragraphCitation": "[6], [20]",
+      "supportingText": "\"The sole issue to be determined is whether the IAD Decision was reasonable.\" and \"I disagree.\"",
+      "analysis": [
+        {
+          "analysisId": "A1",
+          "description": "Erroneous assessment of evidence, including reliance on incorrect legal advice and ignoring contradictory evidence regarding the family's reasons for leaving Canada.",
+          "paragraphCitation": "[27]-[31]",
+          "supportingText": "\"the IAD erroneously accepted ignorance of the law as an excuse...\" and \"the contradictions in Mr. Tefera's declarations regarding his mother's illness...\""
+        },
+        {
+          "analysisId": "A2",
+          "description": "Unreasonable outcome due to granting H&C relief in a case with a massive shortfall in residency and absence of genuine humanitarian factors.",
+          "paragraphCitation": "[41]-[45]",
+          "supportingText": "\"the outcome reached by the IAD is so at odds with the residency requirements...\" and \"none of the H&C features... is present in this case.\""
+        }
+      ],
+      "decision": [
+        {
+          "decisionId": "D1",
+          "description": "The Court found that the IAD Decision was unreasonable, set it aside, and remitted the matter for re-determination by a differently constituted panel.",
+          "paragraphCitation": "[54]-[55]",
+          "supportingText": "\"the application for judicial review filed by the Minister must therefore be allowed\" and \"The decision of the Immigration Appeal Division allowing the appeals of the Tefera family is set aside.\""
+        }
+      ]
+    }
+  ],
+  "citedLaws": [
+    {
+      "citation": "IRPA SC 2001, c 27",
+      "name": "Immigration and Refugee Protection Act",
+      "section": "Section 28 and 67(1)(c)",
+      "description": "Provides the statutory framework for residency obligations and humanitarian and compassionate relief.",
+      "jurisdiction": "Canada",
+      "link": ""
+    },
+    {
+      "citation": "Canada (Citizenship and Immigration) v Khosa, 2009 SCC 12",
+      "name": "Canada (Citizenship and Immigration) v Khosa",
+      "section": "Not specified",
+      "description": "Established that the standard of review for IAD decisions on H&C considerations is one of reasonableness.",
+      "jurisdiction": "Canada",
+      "link": ""
+    }
+  ],
+  "judgmentDetails": {
+    "finalDecision": "Judicial review application allowed; IAD decision set aside and remitted for re-determination by a differently constituted panel.",
+    "sentence": "No costs awarded; no question of general importance certified.",
+    "monetaryAward": 0,
+    "conditions": "No conditions imposed.",
+    "appealInformation": {
+      "appealAllowed": false,
+      "appealDeadline": "",
+      "appellateCourt": ""
+    }
+  },
+  "appendices": {
+    "exhibits": [
+      {
+        "exhibitNumber": "",
+        "description": "",
+        "fileReference": ""
+      }
+    ],
+    "additionalDocuments": []
+  }
+}
