@@ -94,7 +94,7 @@ export default function Page() {
         password
       );
 
-      await sendEmailVerification(userCredential.user);
+      // await sendEmailVerification(userCredential.user);
 
       // Adding user to list of valid users
       const validData = userSchema.parse({
@@ -109,7 +109,7 @@ export default function Page() {
       const user = userCredential.user;
       setUser(user);
 
-      setShowVerifyEmail(true);
+      // setShowVerifyEmail(true);
     } catch (error: unknown) {
       setAlert(errorResponse(error));
     }

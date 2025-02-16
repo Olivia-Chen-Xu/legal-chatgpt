@@ -73,15 +73,15 @@ export default function Login() {
         password
       );
 
-      if (!userCredential.user.emailVerified) {
-        toast({
-          title: "Email has not been verified. A verification link has been sent.",
-          variant: "destructive",
-        });
+      // if (!userCredential.user.emailVerified) {
+      //   toast({
+      //     title: "Email has not been verified. A verification link has been sent.",
+      //     variant: "destructive",
+      //   });
 
-        await sendEmailVerification(userCredential.user);
-        return;
-      }
+      //   await sendEmailVerification(userCredential.user);
+      //   return;
+      // }
       router.push("/chat");
     } catch (error: unknown) {
       form.setError("email", {
@@ -108,7 +108,7 @@ export default function Login() {
           <div className="w-full max-w-[460px] flex flex-col justify-start mt-[100px] gap-5">
             <div>
               <PageTitle className="text-center font-bold heading">
-                Welcome Back
+                Welcome Back bro
               </PageTitle>
             </div>
 

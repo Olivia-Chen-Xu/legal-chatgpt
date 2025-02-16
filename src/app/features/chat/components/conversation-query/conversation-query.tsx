@@ -1,9 +1,9 @@
 import { useGlobalContext } from "@/app/store/global-context";
-
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import { SquareMinus } from "lucide-react";
+import { useRouter } from "next/navigation"; // Import useRouter
 
 import UploadDocument from "../upload-document/upload-document";
 import { FlowModal } from "../dialog-flows/flow-graph";
@@ -16,12 +16,8 @@ export function ConversationQuery() {
   const { compiledDialogFlow, setCompiledDialogFlow } =
     useGlobalDialogFlowStore();
   const { fetchQuery } = useFetchQuery();
-  /**
-   * Submits the user's query
-   * To Do: make it so that handle submit only calls the LLM output so we don't have to wait until all the other proccess are complete before generating output
-   *
-   * @returns {void}
-   */
+  const router = useRouter(); // Initialize Next.js router
+
   const handleSubmit = async (event: React.MouseEvent<HTMLFormElement>) => {
     event.preventDefault();
     fetchQuery(userQuery);
@@ -34,8 +30,17 @@ export function ConversationQuery() {
     >
       <div className="relative flex h-[45px] md:h-[56px] w-full md:w-chat mx-2">
         <UploadDocument />
-
+        
         <FlowModal />
+
+        {/* New Button - Opens Mini Tools Page */}
+        <Button
+          variant="ghost"
+          className="h-auto"
+          onClick={() => router.push("/chat/forms")}
+        >
+          <SquareMinus /> {/* Placeholder Icon */}
+        </Button>
 
         <Input
           className="w-full flex bg-[#F8F8F8] pr-[60px] h-full focus-visible:ring-[none] text-base self-center"
